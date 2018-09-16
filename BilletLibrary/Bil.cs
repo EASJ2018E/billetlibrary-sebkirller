@@ -14,10 +14,11 @@ namespace BilletLibrary
         }
         
         public DateTime Dato { get; set; }
+        public bool Brobizz { get; set; }
         
         public override decimal Pris()
         {
-            return 240;
+            return !Brobizz ? 240 : 240 - ((240 * 5) / 100);
         }
 
         public override string Køretøj()

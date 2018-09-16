@@ -37,5 +37,17 @@ namespace Tests
         {
             new MC {NummerPlade = "VP28106QQ"};
         }
+        
+        [TestMethod]
+        public void TestMethodPrisPlusRabbat()
+        {
+            MC mc = new MC {Brobizz = true};
+            double actuallResult = (double) mc.Pris();
+
+            const double expectedResult = 118.75;
+            
+            Assert.AreEqual(expectedResult, actuallResult, 0.5,
+                "Test failed! The actual result is not the same as the expected result");
+        }
     }
 }

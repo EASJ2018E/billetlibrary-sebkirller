@@ -35,24 +35,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="5" />
+          <entry key="cs" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="5" />
+          <entry key="C#" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="728" />
-          <entry key="txt" value="118" />
+          <entry key="cs" value="941" />
+          <entry key="txt" value="149" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="728" />
-          <entry key="PLAIN_TEXT" value="118" />
+          <entry key="C#" value="941" />
+          <entry key="PLAIN_TEXT" value="149" />
         </counts>
       </usages-collector>
     </session>
@@ -62,31 +62,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/BilUnitTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="33" selection-start-line="33" selection-end-line="38" selection-end-column="9" />
+            <state relative-caret-position="146">
+              <caret line="40" selection-start-line="40" selection-end-line="50" selection-end-column="9" />
               <folding>
-                <marker date="1537099729284" expanded="true" signature="6:86" ph="..." />
-                <marker date="1537099729284" expanded="true" signature="103:1106" ph="{...}" />
-                <marker date="1537099729284" expanded="true" signature="150:1104" ph="{...}" />
-                <marker date="1537099729284" expanded="true" signature="214:518" ph="{...}" />
-                <marker date="1537099729284" expanded="true" signature="580:888" ph="{...}" />
-                <marker date="1537099729284" expanded="true" signature="1029:1098" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BilletLibrary/MC.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-              <folding>
-                <marker date="1537099556390" expanded="true" signature="38:588" ph="{...}" />
-                <marker date="1537099556390" expanded="true" signature="70:586" ph="{...}" />
-                <marker date="1537099556390" expanded="true" signature="148:357" ph="{...}" />
-                <marker date="1537099556390" expanded="true" signature="449:493" ph="{...}" />
-                <marker date="1537099556390" expanded="true" signature="535:580" ph="{...}" />
+                <marker date="1537100911408" expanded="true" signature="6:86" ph="..." />
+                <marker date="1537100911408" expanded="true" signature="103:1518" ph="{...}" />
+                <marker date="1537100911408" expanded="true" signature="150:1516" ph="{...}" />
+                <marker date="1537100911408" expanded="true" signature="214:518" ph="{...}" />
+                <marker date="1537100911408" expanded="true" signature="580:888" ph="{...}" />
+                <marker date="1537100911408" expanded="true" signature="1029:1098" ph="{...}" />
+                <marker date="1537100911408" expanded="true" signature="1175:1510" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -95,15 +80,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tests/MCUnitTest .cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+            <state relative-caret-position="422">
+              <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
               <folding>
-                <marker date="1537099759821" expanded="true" signature="6:86" ph="..." />
-                <marker date="1537099759821" expanded="true" signature="103:1111" ph="{...}" />
-                <marker date="1537099759821" expanded="true" signature="149:1109" ph="{...}" />
-                <marker date="1537099759821" expanded="true" signature="213:517" ph="{...}" />
-                <marker date="1537099759821" expanded="true" signature="579:886" ph="{...}" />
-                <marker date="1537099759821" expanded="true" signature="1035:1103" ph="{...}" />
+                <marker date="1537101002110" expanded="true" signature="6:86" ph="..." />
+                <marker date="1537101002110" expanded="true" signature="103:1526" ph="{...}" />
+                <marker date="1537101002110" expanded="true" signature="149:1524" ph="{...}" />
+                <marker date="1537101002110" expanded="true" signature="213:517" ph="{...}" />
+                <marker date="1537101002110" expanded="true" signature="579:886" ph="{...}" />
+                <marker date="1537101002110" expanded="true" signature="1035:1103" ph="{...}" />
+                <marker date="1537101002110" expanded="true" signature="1180:1518" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BilletLibrary/MC.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="41" />
+              <folding>
+                <marker date="1537100283954" expanded="true" signature="38:667" ph="{...}" />
+                <marker date="1537100283954" expanded="true" signature="70:665" ph="{...}" />
+                <marker date="1537100283954" expanded="true" signature="148:357" ph="{...}" />
+                <marker date="1537100283954" expanded="true" signature="491:572" ph="{...}" />
+                <marker date="1537100283954" expanded="true" signature="614:659" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -112,14 +114,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BilletLibrary/Bil.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="368">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
               <folding>
-                <marker date="1537099548880" expanded="true" signature="38:598" ph="{...}" />
-                <marker date="1537099548880" expanded="true" signature="71:596" ph="{...}" />
-                <marker date="1537099548880" expanded="true" signature="149:358" ph="{...}" />
-                <marker date="1537099548880" expanded="true" signature="458:502" ph="{...}" />
-                <marker date="1537099548880" expanded="true" signature="544:590" ph="{...}" />
+                <marker date="1537100442641" expanded="true" signature="38:677" ph="{...}" />
+                <marker date="1537100442641" expanded="true" signature="71:675" ph="{...}" />
+                <marker date="1537100442641" expanded="true" signature="149:358" ph="{...}" />
+                <marker date="1537100442641" expanded="true" signature="500:581" ph="{...}" />
+                <marker date="1537100442641" expanded="true" signature="623:669" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -142,8 +144,8 @@
       <list>
         <option value="$PROJECT_DIR$/BilletLibrary/Køretøj.cs" />
         <option value="$PROJECT_DIR$/BilletLibrary/Vehicle.cs" />
-        <option value="$PROJECT_DIR$/BilletLibrary/Bil.cs" />
         <option value="$PROJECT_DIR$/BilletLibrary/MC.cs" />
+        <option value="$PROJECT_DIR$/BilletLibrary/Bil.cs" />
         <option value="$PROJECT_DIR$/Tests/BilUnitTest.cs" />
         <option value="$PROJECT_DIR$/Tests/MCUnitTest .cs" />
       </list>
@@ -218,7 +220,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537097245487</updated>
-      <workItem from="1537097248352" duration="2521000" />
+      <workItem from="1537097248352" duration="3777000" />
     </task>
     <task id="LOCAL-00001" summary="Added MC class and tests for MC class.">
       <created>1537098015008</created>
@@ -241,11 +243,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537099440738</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added unit test for Nummerplade">
+      <created>1537099793126</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537099793126</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2521000" />
+    <option name="totallyTimeSpent" value="3777000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,7 +267,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="28" width="1922" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
@@ -268,14 +276,14 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection Results" weight="0.3290461" />
-      <window_info anchor="bottom" id="Unit Tests" weight="0.3290461" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" visible="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Build" weight="0.3290461" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -298,7 +306,8 @@
     <MESSAGE value="Added MC class and tests for MC class." />
     <MESSAGE value="Converted to inherent from base class" />
     <MESSAGE value="Added check for licence plate." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added check for licence plate." />
+    <MESSAGE value="Added unit test for Nummerplade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added unit test for Nummerplade" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -311,34 +320,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BilletLibrary/MC.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <marker date="1537099556390" expanded="true" signature="38:588" ph="{...}" />
-            <marker date="1537099556390" expanded="true" signature="70:586" ph="{...}" />
-            <marker date="1537099556390" expanded="true" signature="148:357" ph="{...}" />
-            <marker date="1537099556390" expanded="true" signature="449:493" ph="{...}" />
-            <marker date="1537099556390" expanded="true" signature="535:580" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BilletLibrary/Bil.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <marker date="1537099548880" expanded="true" signature="38:598" ph="{...}" />
-            <marker date="1537099548880" expanded="true" signature="71:596" ph="{...}" />
-            <marker date="1537099548880" expanded="true" signature="149:358" ph="{...}" />
-            <marker date="1537099548880" expanded="true" signature="458:502" ph="{...}" />
-            <marker date="1537099548880" expanded="true" signature="544:590" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BilletLibrary/Vehicle.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -350,32 +331,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BilletLibrary/Bil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <marker date="1537100442641" expanded="true" signature="38:677" ph="{...}" />
+            <marker date="1537100442641" expanded="true" signature="71:675" ph="{...}" />
+            <marker date="1537100442641" expanded="true" signature="149:358" ph="{...}" />
+            <marker date="1537100442641" expanded="true" signature="500:581" ph="{...}" />
+            <marker date="1537100442641" expanded="true" signature="623:669" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/BilUnitTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="33" selection-start-line="33" selection-end-line="38" selection-end-column="9" />
+        <state relative-caret-position="146">
+          <caret line="40" selection-start-line="40" selection-end-line="50" selection-end-column="9" />
           <folding>
-            <marker date="1537099729284" expanded="true" signature="6:86" ph="..." />
-            <marker date="1537099729284" expanded="true" signature="103:1106" ph="{...}" />
-            <marker date="1537099729284" expanded="true" signature="150:1104" ph="{...}" />
-            <marker date="1537099729284" expanded="true" signature="214:518" ph="{...}" />
-            <marker date="1537099729284" expanded="true" signature="580:888" ph="{...}" />
-            <marker date="1537099729284" expanded="true" signature="1029:1098" ph="{...}" />
+            <marker date="1537100911408" expanded="true" signature="6:86" ph="..." />
+            <marker date="1537100911408" expanded="true" signature="103:1518" ph="{...}" />
+            <marker date="1537100911408" expanded="true" signature="150:1516" ph="{...}" />
+            <marker date="1537100911408" expanded="true" signature="214:518" ph="{...}" />
+            <marker date="1537100911408" expanded="true" signature="580:888" ph="{...}" />
+            <marker date="1537100911408" expanded="true" signature="1029:1098" ph="{...}" />
+            <marker date="1537100911408" expanded="true" signature="1175:1510" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BilletLibrary/MC.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <marker date="1537100283954" expanded="true" signature="38:667" ph="{...}" />
+            <marker date="1537100283954" expanded="true" signature="70:665" ph="{...}" />
+            <marker date="1537100283954" expanded="true" signature="148:357" ph="{...}" />
+            <marker date="1537100283954" expanded="true" signature="491:572" ph="{...}" />
+            <marker date="1537100283954" expanded="true" signature="614:659" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/MCUnitTest .cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+        <state relative-caret-position="422">
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
           <folding>
-            <marker date="1537099759821" expanded="true" signature="6:86" ph="..." />
-            <marker date="1537099759821" expanded="true" signature="103:1111" ph="{...}" />
-            <marker date="1537099759821" expanded="true" signature="149:1109" ph="{...}" />
-            <marker date="1537099759821" expanded="true" signature="213:517" ph="{...}" />
-            <marker date="1537099759821" expanded="true" signature="579:886" ph="{...}" />
-            <marker date="1537099759821" expanded="true" signature="1035:1103" ph="{...}" />
+            <marker date="1537101002110" expanded="true" signature="6:86" ph="..." />
+            <marker date="1537101002110" expanded="true" signature="103:1526" ph="{...}" />
+            <marker date="1537101002110" expanded="true" signature="149:1524" ph="{...}" />
+            <marker date="1537101002110" expanded="true" signature="213:517" ph="{...}" />
+            <marker date="1537101002110" expanded="true" signature="579:886" ph="{...}" />
+            <marker date="1537101002110" expanded="true" signature="1035:1103" ph="{...}" />
+            <marker date="1537101002110" expanded="true" signature="1180:1518" ph="{...}" />
           </folding>
         </state>
       </provider>
