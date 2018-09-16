@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b796e6b1-2889-480c-8874-e01df87787c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BilletLibrary/obj/BilletLibrary.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BilletLibrary/obj/BilletLibrary.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BilletLibrary/obj/Debug/netstandard2.0/BilletLibrary.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BilletLibrary/obj/Debug/netstandard2.0/BilletLibrary.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BilletLibrary/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BilletLibrary/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BilletLibrary/MC.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,39 +20,52 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="2" />
+          <entry key="cs" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="2" />
+          <entry key="C#" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="223" />
+          <entry key="cs" value="266" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="223" />
+          <entry key="C#" value="266" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/BilUnitTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="644">
+              <caret line="29" column="89" selection-start-line="29" selection-start-column="89" selection-end-line="29" selection-end-column="89" />
               <folding>
-                <marker date="1537097545010" expanded="false" signature="6:72" ph="..." />
-                <marker date="1537097545010" expanded="true" signature="89:684" ph="{...}" />
-                <marker date="1537097545010" expanded="true" signature="136:682" ph="{...}" />
-                <marker date="1537097545010" expanded="true" signature="200:493" ph="{...}" />
-                <marker date="1537097545010" expanded="true" signature="555:676" ph="{...}" />
+                <marker date="1537097677199" expanded="false" signature="6:72" ph="..." />
+                <marker date="1537097677199" expanded="true" signature="89:882" ph="{...}" />
+                <marker date="1537097677199" expanded="true" signature="136:880" ph="{...}" />
+                <marker date="1537097677199" expanded="true" signature="200:504" ph="{...}" />
+                <marker date="1537097677199" expanded="true" signature="566:874" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BilletLibrary/MC.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding>
+                <marker date="1537097844555" expanded="true" signature="23:68" ph="{...}" />
+                <marker date="1537097844555" expanded="true" signature="45:66" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -81,12 +92,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Tests/BilUnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BilletLibrary/MC.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BilletLibrary/Bil.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Tests/BilUnitTest.cs" />
+        <option value="$PROJECT_DIR$/BilletLibrary/MC.cs" />
       </list>
     </option>
   </component>
@@ -159,12 +172,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537097245487</updated>
-      <workItem from="1537097248352" duration="297000" />
+      <workItem from="1537097248352" duration="605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297000" />
+    <option name="totallyTimeSpent" value="605000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -180,7 +193,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -188,8 +201,8 @@
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" weight="0.3290461" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Build" weight="0.3290461" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -197,7 +210,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Errors In Solution" weight="0.32960597" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -237,14 +250,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/BilUnitTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="644">
+          <caret line="29" column="89" selection-start-line="29" selection-start-column="89" selection-end-line="29" selection-end-column="89" />
           <folding>
-            <marker date="1537097545010" expanded="false" signature="6:72" ph="..." />
-            <marker date="1537097545010" expanded="true" signature="89:684" ph="{...}" />
-            <marker date="1537097545010" expanded="true" signature="136:682" ph="{...}" />
-            <marker date="1537097545010" expanded="true" signature="200:493" ph="{...}" />
-            <marker date="1537097545010" expanded="true" signature="555:676" ph="{...}" />
+            <marker date="1537097677199" expanded="false" signature="6:72" ph="..." />
+            <marker date="1537097677199" expanded="true" signature="89:882" ph="{...}" />
+            <marker date="1537097677199" expanded="true" signature="136:880" ph="{...}" />
+            <marker date="1537097677199" expanded="true" signature="200:504" ph="{...}" />
+            <marker date="1537097677199" expanded="true" signature="566:874" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BilletLibrary/MC.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1537097844555" expanded="true" signature="23:68" ph="{...}" />
+            <marker date="1537097844555" expanded="true" signature="45:66" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -10,6 +10,7 @@
       <e p="BilletLibrary" t="IncludeRecursive">
         <e p="Bil.cs" t="Include" />
         <e p="BilletLibrary.csproj" t="IncludeRecursive" />
+        <e p="MC.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -21,6 +22,7 @@
       </e>
       <e p="Tests" t="IncludeRecursive">
         <e p="BilUnitTest.cs" t="Include" />
+        <e p="MCUnitTest .cs" t="Include" />
         <e p="Tests.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
