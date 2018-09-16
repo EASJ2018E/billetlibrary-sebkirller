@@ -1,3 +1,4 @@
+using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BilletLibrary;
 
@@ -28,6 +29,13 @@ namespace Tests
             
             Assert.AreEqual(expectedResult, actuallResult,
                 "Test failed! The actual result is not the same as the expected result");
+        }
+        
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentException))]
+        public void TestExceptionArgumentExceptionNummerplade()
+        {
+            new MC {NummerPlade = "VP28106QQ"};
         }
     }
 }

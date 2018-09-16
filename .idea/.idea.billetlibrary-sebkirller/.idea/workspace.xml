@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b796e6b1-2889-480c-8874-e01df87787c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BilletLibrary/Vehicle.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.billetlibrary-sebkirller/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.billetlibrary-sebkirller/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.billetlibrary-sebkirller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.billetlibrary-sebkirller/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BilletLibrary/Bil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BilletLibrary/Bil.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BilletLibrary/MC.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BilletLibrary/MC.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BilletLibrary/bin/Debug/netstandard2.0/BilletLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BilletLibrary/bin/Debug/netstandard2.0/BilletLibrary.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BilletLibrary/bin/Debug/netstandard2.0/BilletLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BilletLibrary/bin/Debug/netstandard2.0/BilletLibrary.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BilletLibrary/obj/Debug/netstandard2.0/BilletLibrary.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BilletLibrary/obj/Debug/netstandard2.0/BilletLibrary.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BilletLibrary/obj/Debug/netstandard2.0/BilletLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BilletLibrary/obj/Debug/netstandard2.0/BilletLibrary.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BilletLibrary/obj/Debug/netstandard2.0/BilletLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BilletLibrary/obj/Debug/netstandard2.0/BilletLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/BilUnitTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/BilUnitTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/MCUnitTest .cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/MCUnitTest .cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/netcoreapp2.1/BilletLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/netcoreapp2.1/BilletLibrary.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/netcoreapp2.1/BilletLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/netcoreapp2.1/BilletLibrary.pdb" afterDir="false" />
@@ -47,14 +45,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="428" />
-          <entry key="txt" value="41" />
+          <entry key="cs" value="728" />
+          <entry key="txt" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="428" />
-          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="C#" value="728" />
+          <entry key="PLAIN_TEXT" value="118" />
         </counts>
       </usages-collector>
     </session>
@@ -64,14 +62,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/BilUnitTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="29" column="89" selection-start-line="29" selection-start-column="89" selection-end-line="29" selection-end-column="89" />
+            <state relative-caret-position="568">
+              <caret line="33" selection-start-line="33" selection-end-line="38" selection-end-column="9" />
               <folding>
-                <marker date="1537097677199" expanded="false" signature="6:72" ph="..." />
-                <marker date="1537097677199" expanded="true" signature="89:882" ph="{...}" />
-                <marker date="1537097677199" expanded="true" signature="136:880" ph="{...}" />
-                <marker date="1537097677199" expanded="true" signature="200:504" ph="{...}" />
-                <marker date="1537097677199" expanded="true" signature="566:874" ph="{...}" />
+                <marker date="1537099729284" expanded="true" signature="6:86" ph="..." />
+                <marker date="1537099729284" expanded="true" signature="103:1106" ph="{...}" />
+                <marker date="1537099729284" expanded="true" signature="150:1104" ph="{...}" />
+                <marker date="1537099729284" expanded="true" signature="214:518" ph="{...}" />
+                <marker date="1537099729284" expanded="true" signature="580:888" ph="{...}" />
+                <marker date="1537099729284" expanded="true" signature="1029:1098" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -80,42 +79,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BilletLibrary/MC.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="184">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding>
-                <marker date="1537098520491" expanded="true" signature="38:254" ph="{...}" />
-                <marker date="1537098520491" expanded="true" signature="70:252" ph="{...}" />
-                <marker date="1537098520491" expanded="true" signature="115:159" ph="{...}" />
-                <marker date="1537098520491" expanded="true" signature="201:246" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tests/MCUnitTest .cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-              <folding>
-                <marker date="1537098019837" expanded="false" signature="6:72" ph="..." />
-                <marker date="1537098019837" expanded="true" signature="89:880" ph="{...}" />
-                <marker date="1537098019837" expanded="true" signature="135:878" ph="{...}" />
-                <marker date="1537098019837" expanded="true" signature="199:503" ph="{...}" />
-                <marker date="1537098019837" expanded="true" signature="565:872" ph="{...}" />
+                <marker date="1537099556390" expanded="true" signature="38:588" ph="{...}" />
+                <marker date="1537099556390" expanded="true" signature="70:586" ph="{...}" />
+                <marker date="1537099556390" expanded="true" signature="148:357" ph="{...}" />
+                <marker date="1537099556390" expanded="true" signature="449:493" ph="{...}" />
+                <marker date="1537099556390" expanded="true" signature="535:580" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BilletLibrary/Vehicle.cs">
+        <entry file="file://$PROJECT_DIR$/Tests/MCUnitTest .cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="43" />
+            <state relative-caret-position="667">
+              <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
               <folding>
-                <marker date="1537098442183" expanded="true" signature="38:265" ph="{...}" />
-                <marker date="1537098442183" expanded="true" signature="74:263" ph="{...}" />
+                <marker date="1537099759821" expanded="true" signature="6:86" ph="..." />
+                <marker date="1537099759821" expanded="true" signature="103:1111" ph="{...}" />
+                <marker date="1537099759821" expanded="true" signature="149:1109" ph="{...}" />
+                <marker date="1537099759821" expanded="true" signature="213:517" ph="{...}" />
+                <marker date="1537099759821" expanded="true" signature="579:886" ph="{...}" />
+                <marker date="1537099759821" expanded="true" signature="1035:1103" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -124,13 +112,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BilletLibrary/Bil.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="184">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding>
-                <marker date="1537098466017" expanded="true" signature="38:256" ph="{...}" />
-                <marker date="1537098466017" expanded="true" signature="71:254" ph="{...}" />
-                <marker date="1537098466017" expanded="true" signature="116:160" ph="{...}" />
-                <marker date="1537098466017" expanded="true" signature="202:248" ph="{...}" />
+                <marker date="1537099548880" expanded="true" signature="38:598" ph="{...}" />
+                <marker date="1537099548880" expanded="true" signature="71:596" ph="{...}" />
+                <marker date="1537099548880" expanded="true" signature="149:358" ph="{...}" />
+                <marker date="1537099548880" expanded="true" signature="458:502" ph="{...}" />
+                <marker date="1537099548880" expanded="true" signature="544:590" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -151,12 +140,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Tests/BilUnitTest.cs" />
-        <option value="$PROJECT_DIR$/Tests/MCUnitTest .cs" />
         <option value="$PROJECT_DIR$/BilletLibrary/Køretøj.cs" />
         <option value="$PROJECT_DIR$/BilletLibrary/Vehicle.cs" />
         <option value="$PROJECT_DIR$/BilletLibrary/Bil.cs" />
         <option value="$PROJECT_DIR$/BilletLibrary/MC.cs" />
+        <option value="$PROJECT_DIR$/Tests/BilUnitTest.cs" />
+        <option value="$PROJECT_DIR$/Tests/MCUnitTest .cs" />
       </list>
     </option>
   </component>
@@ -229,7 +218,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537097245487</updated>
-      <workItem from="1537097248352" duration="1336000" />
+      <workItem from="1537097248352" duration="2521000" />
     </task>
     <task id="LOCAL-00001" summary="Added MC class and tests for MC class.">
       <created>1537098015008</created>
@@ -238,11 +227,25 @@
       <option name="project" value="LOCAL" />
       <updated>1537098015008</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Converted to inherent from base class">
+      <created>1537098610474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537098610474</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added check for licence plate.">
+      <created>1537099440738</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537099440738</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1336000" />
+    <option name="totallyTimeSpent" value="2521000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,6 +267,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.3290461" />
       <window_info anchor="bottom" id="Unit Tests" weight="0.3290461" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3290461" />
@@ -292,7 +296,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added MC class and tests for MC class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added MC class and tests for MC class." />
+    <MESSAGE value="Converted to inherent from base class" />
+    <MESSAGE value="Added check for licence plate." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added check for licence plate." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -305,56 +311,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tests/BilUnitTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="29" column="89" selection-start-line="29" selection-start-column="89" selection-end-line="29" selection-end-column="89" />
-          <folding>
-            <marker date="1537097677199" expanded="false" signature="6:72" ph="..." />
-            <marker date="1537097677199" expanded="true" signature="89:882" ph="{...}" />
-            <marker date="1537097677199" expanded="true" signature="136:880" ph="{...}" />
-            <marker date="1537097677199" expanded="true" signature="200:504" ph="{...}" />
-            <marker date="1537097677199" expanded="true" signature="566:874" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/MCUnitTest .cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding>
-            <marker date="1537098019837" expanded="false" signature="6:72" ph="..." />
-            <marker date="1537098019837" expanded="true" signature="89:880" ph="{...}" />
-            <marker date="1537098019837" expanded="true" signature="135:878" ph="{...}" />
-            <marker date="1537098019837" expanded="true" signature="199:503" ph="{...}" />
-            <marker date="1537098019837" expanded="true" signature="565:872" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BilletLibrary/MC.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="184">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding>
-            <marker date="1537098520491" expanded="true" signature="38:254" ph="{...}" />
-            <marker date="1537098520491" expanded="true" signature="70:252" ph="{...}" />
-            <marker date="1537098520491" expanded="true" signature="115:159" ph="{...}" />
-            <marker date="1537098520491" expanded="true" signature="201:246" ph="{...}" />
+            <marker date="1537099556390" expanded="true" signature="38:588" ph="{...}" />
+            <marker date="1537099556390" expanded="true" signature="70:586" ph="{...}" />
+            <marker date="1537099556390" expanded="true" signature="148:357" ph="{...}" />
+            <marker date="1537099556390" expanded="true" signature="449:493" ph="{...}" />
+            <marker date="1537099556390" expanded="true" signature="535:580" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BilletLibrary/Bil.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="184">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding>
-            <marker date="1537098466017" expanded="true" signature="38:256" ph="{...}" />
-            <marker date="1537098466017" expanded="true" signature="71:254" ph="{...}" />
-            <marker date="1537098466017" expanded="true" signature="116:160" ph="{...}" />
-            <marker date="1537098466017" expanded="true" signature="202:248" ph="{...}" />
+            <marker date="1537099548880" expanded="true" signature="38:598" ph="{...}" />
+            <marker date="1537099548880" expanded="true" signature="71:596" ph="{...}" />
+            <marker date="1537099548880" expanded="true" signature="149:358" ph="{...}" />
+            <marker date="1537099548880" expanded="true" signature="458:502" ph="{...}" />
+            <marker date="1537099548880" expanded="true" signature="544:590" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -362,10 +342,40 @@
     <entry file="file://$PROJECT_DIR$/BilletLibrary/Vehicle.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="43" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <marker date="1537098442183" expanded="true" signature="38:265" ph="{...}" />
-            <marker date="1537098442183" expanded="true" signature="74:263" ph="{...}" />
+            <marker date="1537098847565" expanded="true" signature="38:171" ph="{...}" />
+            <marker date="1537098847565" expanded="true" signature="74:169" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/BilUnitTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="33" selection-start-line="33" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <marker date="1537099729284" expanded="true" signature="6:86" ph="..." />
+            <marker date="1537099729284" expanded="true" signature="103:1106" ph="{...}" />
+            <marker date="1537099729284" expanded="true" signature="150:1104" ph="{...}" />
+            <marker date="1537099729284" expanded="true" signature="214:518" ph="{...}" />
+            <marker date="1537099729284" expanded="true" signature="580:888" ph="{...}" />
+            <marker date="1537099729284" expanded="true" signature="1029:1098" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/MCUnitTest .cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+          <folding>
+            <marker date="1537099759821" expanded="true" signature="6:86" ph="..." />
+            <marker date="1537099759821" expanded="true" signature="103:1111" ph="{...}" />
+            <marker date="1537099759821" expanded="true" signature="149:1109" ph="{...}" />
+            <marker date="1537099759821" expanded="true" signature="213:517" ph="{...}" />
+            <marker date="1537099759821" expanded="true" signature="579:886" ph="{...}" />
+            <marker date="1537099759821" expanded="true" signature="1035:1103" ph="{...}" />
           </folding>
         </state>
       </provider>
