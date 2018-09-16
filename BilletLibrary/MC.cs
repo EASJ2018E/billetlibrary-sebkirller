@@ -2,17 +2,14 @@ using System;
 
 namespace BilletLibrary
 {
-    public class MC
+    public class MC : Vehicle
     {
-        public string Nummerplade { get; set; }
-        public DateTime Dato { get; set; }
-        
-        public decimal Pris()
+        public override decimal Pris()
         {
             return 125;
         }
 
-        public string Køretøj()
+        public override string Køretøj()
         {
             return "MC";
         }
