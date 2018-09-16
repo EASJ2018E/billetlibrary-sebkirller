@@ -1,0 +1,14 @@
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary/bin/Release/netstandard2.0/BilletLibrary.deps.json
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary/bin/Release/netstandard2.0/BilletLibrary.dll
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary/bin/Release/netstandard2.0/BilletLibrary.pdb
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary/obj/Release/netstandard2.0/BilletLibrary.csprojAssemblyReference.cache
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary/obj/Release/netstandard2.0/BilletLibrary.csproj.CoreCompileInputs.cache
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary/obj/Release/netstandard2.0/BilletLibrary.AssemblyInfoInputs.cache
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary/obj/Release/netstandard2.0/BilletLibrary.AssemblyInfo.cs
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary/obj/Release/netstandard2.0/BilletLibrary.dll
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary/obj/Release/netstandard2.0/BilletLibrary.pdb
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary-Compiled/BilletLibrary.deps.json
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary-Compiled/BilletLibrary.dll
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary-Compiled/BilletLibrary.pdb
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary-Compiled/BilletLibrary.xml
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/billetlibrary-sebkirller/BilletLibrary/obj/Release/netstandard2.0/BilletLibrary.xml
